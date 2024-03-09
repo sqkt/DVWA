@@ -1,0 +1,9 @@
+serverAddr = "2frp.bibl.love"
+serverPort = 7000
+
+[[proxies]]
+name = "BZuusL"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 80
+remotePort = 23768
